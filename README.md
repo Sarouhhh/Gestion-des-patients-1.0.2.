@@ -27,4 +27,5 @@ Pour installer l'application, suivez les instructions ci-dessous:
 **Utilisation**
 L'application est facile à utiliser. Pour ajouter un patient, cliquez sur le bouton "Ajouter un patient" et remplissez le formulaire. Pour supprimer un patient, cliquez sur le bouton "Supprimer un patient" et entrez l'ID du patient que vous souhaitez supprimer. Pour rechercher un patient, cliquez sur le bouton "Rechercher un patient" et entrez l'ID du patient que vous recherchez. Pour afficher les informations d'un patient spécifique, cliquez sur le bouton "Afficher les informations d'un patient" et entrez l'ID du patient que vous souhaitez afficher. Pour afficher une liste des derniers patients ajoutés à la base de données, cliquez sur le bouton "Afficher les derniers patients ajoutés".
 
-**Contributeurs : ** Étudiantes M2 MIAGE
+**Contributeurs : ** 
+Étudiantes M2 MIAGE
