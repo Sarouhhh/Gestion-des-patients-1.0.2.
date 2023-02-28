@@ -15,11 +15,11 @@ Projet réalisé dans le cadre du module Développement d'applications de Santé
 Pour installer l'application, suivez les instructions ci-dessous:
   1. Clonez ce dépôt Git ou téléchargez les fichiers.
   2. Assurez-vous que Python 3.11 et la dernière version de PyCharm (soit installés sur votre ordinateur.
-         Lien installation Python (3.11.2) : https://www.python.org/downloads/
-         Lien installation PyCharm : https://www.jetbrains.com/fr-fr/pycharm/download/#section=mac
-  4. Installez les dépendances en exécutant les commandes suivantes dans votre terminal:
-      pip install flask
-      pip install requests
+      - Lien installation Python (3.11.2) : https://www.python.org/downloads/
+      - Lien installation PyCharm : https://www.jetbrains.com/fr-fr/pycharm/download/#section=mac
+  3. Installez les dépendances en exécutant les commandes suivantes dans votre terminal:
+    - pip install flask
+    - pip install requests
   4. Assurez-vous que vous êtes dans le dossier racine de l'application Flask.
   5. Démarrez l'application en exécutant la commande suivante dans votre terminal:
       python app.py
