@@ -18,8 +18,8 @@ Pour installer l'application, suivez les instructions ci-dessous:
       - Lien installation Python (3.11.2) : https://www.python.org/downloads/
       - Lien installation PyCharm : https://www.jetbrains.com/fr-fr/pycharm/download/#section=mac
   3. Installez les dépendances en exécutant les commandes suivantes dans votre terminal:
-    - pip install flask
-    - pip install requests
+      - pip install flask
+      - pip install requests
   4. Assurez-vous que vous êtes dans le dossier racine de l'application Flask.
   5. Démarrez l'application en exécutant la commande suivante dans votre terminal:
       python app.py
