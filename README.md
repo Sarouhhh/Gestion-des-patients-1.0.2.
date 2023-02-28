@@ -4,18 +4,20 @@ Bienvenue dans le README de l'application Gestion-des-patients-1.0.2. développ�
 
 Projet réalisé dans le cadre du module Développement d'applications de Santé
 
-**Fonctionnalités**
+# Fonctionnalités
    - Ajouter un patient en renseignant les informations nécessaires (nom, prénom, date de naissance, adresse, etc.)
    - Supprimer un patient en utilisant son ID
    - Rechercher un patient en utilisant son ID
    - Afficher les informations d'un patient spécifique
    - Afficher une liste des derniers patients ajoutés à la base de données
 
-**Installation**
+# Installation
 Pour installer l'application, suivez les instructions ci-dessous:
   1. Clonez ce dépôt Git ou téléchargez les fichiers.
-  2. Assurez-vous que Python 3.x est installé sur votre ordinateur.
-  3. Installez les dépendances en exécutant les commandes suivantes dans votre terminal:
+  2. Assurez-vous que Python 3.11 et la dernière version de PyCharm (soit installés sur votre ordinateur.
+         Lien installation Python (3.11.2) : https://www.python.org/downloads/
+         Lien installation PyCharm : https://www.jetbrains.com/fr-fr/pycharm/download/#section=mac
+  4. Installez les dépendances en exécutant les commandes suivantes dans votre terminal:
       pip install flask
       pip install requests
   4. Assurez-vous que vous êtes dans le dossier racine de l'application Flask.
@@ -24,8 +26,8 @@ Pour installer l'application, suivez les instructions ci-dessous:
   6. Accédez à l'application en ouvrant un navigateur web et en accédant à l'URL suivante:
       http://localhost:5000/
       
-**Utilisation**
+# Utilisation
 L'application est facile à utiliser. Pour ajouter un patient, cliquez sur le bouton "Ajouter un patient" et remplissez le formulaire. Pour supprimer un patient, cliquez sur le bouton "Supprimer un patient" et entrez l'ID du patient que vous souhaitez supprimer. Pour rechercher un patient, cliquez sur le bouton "Rechercher un patient" et entrez l'ID du patient que vous recherchez. Pour afficher les informations d'un patient spécifique, cliquez sur le bouton "Afficher les informations d'un patient" et entrez l'ID du patient que vous souhaitez afficher. Pour afficher une liste des derniers patients ajoutés à la base de données, cliquez sur le bouton "Afficher les derniers patients ajoutés".
 
-**Contributeurs : ** 
+Contributeurs : 
 Étudiantes M2 MIAGE
